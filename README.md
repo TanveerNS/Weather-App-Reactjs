@@ -65,3 +65,25 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+Deploy to Heroku
+Heroku
+
+Heroku is a free hosting service for hosting small projects. Easy setup and deploy from the command line via git.
+
+Pros
+Easy setup
+Free
+Cons
+App has to sleep a couple of hours every day.
+"Powers down" after 30 mins of inactivity. Starts back up when you visit the site but it takes a few extra seconds. Can maybe be solved with Kaffeine
+Install Heroku
+1 . Create an account on https://heroku.com. This should be pretty straight forward. 2 . Install the Heroku CLI on your computer:
+https://devcenter.heroku.com/articles/heroku-cli. Check that you have the heroku-cli installed by checking the version number in your terminal:
+
+heroku --version
+3 . Connect the Heroku CLI to your account by writing the following command in your terminal and follow the instructions on the command line:
+
+heroku login
+Use your credentials from the earlier account creation.
