@@ -2,6 +2,8 @@
 
 [Demo](https://weather-app-react-ns.herokuapp.com/)
 
+![weather](https://user-images.githubusercontent.com/44171601/150654146-96b71852-1a44-4be1-a965-211f5aa42e0f.PNG)
+
 
 ### `npm start`
 
