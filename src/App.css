@@ -1,0 +1,15 @@
+html, body, #root {
+    font: 0.9rem sans-serif;
+    background: #2e2e2e;
+    color: #1e2432;
+    height: 100%;
+    margin: 0;
+}
+p {
+    margin-top: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+p > span {
+    text-transform: capitalize;
+}
